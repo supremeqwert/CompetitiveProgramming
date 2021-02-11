@@ -1,4 +1,2 @@
----
-title: Competitive Programming
----
+# Competitive Programming!
 This is a competitive programming repo. I prefer to answer these questions in python. We may see some C++, C#, C or Java. Idk.
